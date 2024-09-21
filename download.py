@@ -47,7 +47,7 @@ window = tk.Tk()
 window.title("Why Downloading Is Hard")
 
 #icon
-# window.iconbitmap('download.ico')
+window.iconbitmap('download.ico')
 
 #Fix The Size  of window
 window.maxsize(400, 400)
